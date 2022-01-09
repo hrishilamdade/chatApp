@@ -1,0 +1,29 @@
+
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.MuiSvgIcon-root{
+  width: 2rem !important;
+  height: 2rem !important;
+}
+.app__wrapper {
+  display: flex;
+  flex: 1;
+  /* height: 800px; */
+  height: 100%;
+  /* border-radius: 16px; */
+  box-shadow: rgba(0, 0, 0, 0.33) 0px 1px 4px 0px;
+}
+.sidebar_channellist{
+  flex-basis: 25%;
+  background-color: rgb(5, 31, 102);
+  color: white;
+}
+input{
+  outline: none;
+  outline-width: none;
+}
+::-webkit-input-placeholder{
+  
+}
